@@ -64,9 +64,9 @@ export const skills = [
 
 export const projects = [
   {
-    title: "Project Management App",
-    desc: "A project management tool with a React frontend and a FastAPI + PostgreSQL backend. Replace this with your own description.",
-    tags: ["React", "FastAPI", "PostgreSQL"],
+    title: "Squad Mind – Web Application Development",
+    desc: "Worked as a Junior Developer, developing and maintaining responsive web applications using PHP, CodeIgniter, Laravel, JavaScript, and MySQL. Handled backend development, database integration, API development, frontend implementation, and payment gateway integration.",
+    tags: ["PHP", "CodeIgniter", "Laravel", "JavaScript", "MySQL", "REST APIs"],
     link: "https://github.com/jefrin07",
   },
   {
